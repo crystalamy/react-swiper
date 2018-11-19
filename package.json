@@ -1,0 +1,27 @@
+{
+  "name": "react-swiper",
+  "version": "1.0.0",
+  "description": "This is a react swiper component based on swiper.js 4.2.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/crystalamy/react-swiper.git"
+  },
+  "keywords": [
+    "react",
+    "swiper",
+    "component"
+  ],
+  "author": "crystalamy",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/crystalamy/react-swiper/issues"
+  },
+  "homepage": "https://github.com/crystalamy/react-swiper#readme",
+  "dependencies": {
+    "swiper": "^4.4.2"
+  }
+}
